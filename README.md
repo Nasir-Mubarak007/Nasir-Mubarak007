@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nasir-Mubarak007
-- 👀 I’m interested in React Native (expo)
+- 👀 I’m interested in Nextjs React Native (expo) projects
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : phone(whatsApp); 07062390031, email; nmubarak717@gmail.com
